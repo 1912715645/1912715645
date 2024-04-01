@@ -32,11 +32,11 @@
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- #### GitHub Activity -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qiu-Jun&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=wohuweixiya&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/> -->
 
 <p align="center">
    <a href="https://juneqiu.gitee.io/blog_build"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
-   <img src="https://komarev.com/ghpvc/?username=Qiu-Jun&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+   <img src="https://komarev.com/ghpvc/?username=wohuweixiya&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
                                           
 
